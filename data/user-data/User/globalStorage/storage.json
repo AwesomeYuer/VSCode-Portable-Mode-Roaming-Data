@@ -19,24 +19,47 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 604,
+            "sideBarWidth": 879,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///d%3A/MyGitHub/WebAPI.JTokenModelBinder",
-            "backupPath": "C:\\Users\\xiyueyu\\AppData\\Roaming\\Code\\Backups\\f0edf80498bc467994ccee338d0d3ada",
+            "folder": "file:///d%3A/VSCode",
+            "backupPath": "D:\\VSCode\\data\\user-data\\Backups\\3b0eda76a326b879894ffd7af652d11d",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 448,
                 "y": 156,
                 "width": 1024,
                 "height": 768
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///d%3A/MyGitHub/WebAPI.JTokenModelBinder",
+                "backupPath": "D:\\VSCode\\data\\user-data\\Backups\\f0edf80498bc467994ccee338d0d3ada",
+                "uiState": {
+                    "mode": 0,
+                    "x": 448,
+                    "y": 156,
+                    "width": 1024,
+                    "height": 768
+                }
+            },
+            {
+                "folder": "file:///d%3A/VSCode",
+                "backupPath": "D:\\VSCode\\data\\user-data\\Backups\\3b0eda76a326b879894ffd7af652d11d",
+                "uiState": {
+                    "mode": 0,
+                    "x": 448,
+                    "y": 156,
+                    "width": 1024,
+                    "height": 768
+                }
+            }
+        ]
     },
     "pickerWorkingDir": "D:\\MyGitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore"
 }
