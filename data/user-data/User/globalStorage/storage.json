@@ -1,0 +1,42 @@
+{
+    "telemetry.machineId": "44bb3bcb993f383cea1f1bedbb5430de299dcbdfba33349f7e08c34439044220",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 604,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/MyGitHub/WebAPI.JTokenModelBinder",
+            "backupPath": "C:\\Users\\xiyueyu\\AppData\\Roaming\\Code\\Backups\\f0edf80498bc467994ccee338d0d3ada",
+            "uiState": {
+                "mode": 1,
+                "x": 448,
+                "y": 156,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "D:\\MyGitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore"
+}
